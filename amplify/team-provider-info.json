@@ -11,5 +11,18 @@
       "StackId": "arn:aws:cloudformation:us-east-1:213198851588:stack/amplify-flutteramplifyenvtes-dev-220502/a62652f0-80b8-11ec-8d29-0a8bbda23b13",
       "AmplifyAppId": "d2afaen5yn303x"
     }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-flutteramplifyenvtes-test-221931-authRole",
+      "UnauthRoleArn": "arn:aws:iam::213198851588:role/amplify-flutteramplifyenvtes-test-221931-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::213198851588:role/amplify-flutteramplifyenvtes-test-221931-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-flutteramplifyenvtes-test-221931-deployment",
+      "UnauthRoleName": "amplify-flutteramplifyenvtes-test-221931-unauthRole",
+      "StackName": "amplify-flutteramplifyenvtes-test-221931",
+      "StackId": "arn:aws:cloudformation:us-east-1:213198851588:stack/amplify-flutteramplifyenvtes-test-221931/ac6c64e0-80ba-11ec-849c-12886b8cc8d5",
+      "AmplifyAppId": "d2afaen5yn303x"
+    }
   }
 }
